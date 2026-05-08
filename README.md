@@ -118,28 +118,14 @@ The rapid adoption of Artificial Intelligence (AI) is reshaping the global workf
 | Strength | Description |
 |----------|-------------|
 | Multi-dimensional Analysis | Enables comparison across jobs, skills, industries, and regions |
-
+| Risk vs Opportunity Mapping | Identifies where AI creates or removes jobs |
+| Economic Transformation Tracking | Shows how AI is reshaping global workforce dynamics |
 
 # Regional analysis
 ## AIAdoption%
 The chart indicates a semi-balanced global AI adoption landscape, where leadership is concentrated in Western Asia and Europe, but widespread adoption is emerging across all regions. The relatively tight range of values suggests that AI is transitioning from early adoption to mainstream global utilization, with competitive advantage increasingly defined by how effectively AI is applied, rather than whether it is adopted.
 
-
 <img width="531" height="287" alt="image" src="https://github.com/user-attachments/assets/a1bce1de-3fa0-4fd2-a708-04146e150efe" />
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-| Risk vs Opportunity Mapping | Identifies where AI creates or removes jobs |
-| Economic Transformation Tracking | Shows how AI is reshaping global workforce dynamics |
