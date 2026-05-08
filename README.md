@@ -120,7 +120,25 @@ The rapid adoption of Artificial Intelligence (AI) is reshaping the global workf
 | Multi-dimensional Analysis | Enables comparison across jobs, skills, industries, and regions |
 
 
+# Regional analysis
+## AIAdoption%
+
+
 <img width="531" height="287" alt="image" src="https://github.com/user-attachments/assets/a1bce1de-3fa0-4fd2-a708-04146e150efe" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 | Risk vs Opportunity Mapping | Identifies where AI creates or removes jobs |
 | Economic Transformation Tracking | Shows how AI is reshaping global workforce dynamics |
