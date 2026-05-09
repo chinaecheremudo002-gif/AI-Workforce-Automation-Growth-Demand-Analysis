@@ -128,7 +128,11 @@ The chart indicates a semi-balanced global AI adoption landscape, where leadersh
 <img width="531" height="287" alt="image" src="https://github.com/user-attachments/assets/a1bce1de-3fa0-4fd2-a708-04146e150efe" />
 ## AIAutomation%
 
+
 <img width="525" height="259" alt="image" src="https://github.com/user-attachments/assets/9a7d24e3-55b8-4e26-9970-2e5bac67991d" />
+
+
+
 ### Professional Insight
 
 The distribution of automation risk across global subregions reveals a clear pattern of concentration rather than uniform exposure. Northern Europe, South America, and Southern Asia collectively account for approximately 43% of total automation risk, indicating that nearly half of global exposure is concentrated in just three regions. This suggests that automation vulnerability is strongly influenced by the structure of labor markets rather than economic development alone.
