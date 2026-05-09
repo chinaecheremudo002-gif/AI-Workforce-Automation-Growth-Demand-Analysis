@@ -126,6 +126,14 @@ The rapid adoption of Artificial Intelligence (AI) is reshaping the global workf
 The chart indicates a semi-balanced global AI adoption landscape, where leadership is concentrated in Western Asia and Europe, but widespread adoption is emerging across all regions. The relatively tight range of values suggests that AI is transitioning from early adoption to mainstream global utilization, with competitive advantage increasingly defined by how effectively AI is applied, rather than whether it is adopted.
 
 <img width="531" height="287" alt="image" src="https://github.com/user-attachments/assets/a1bce1de-3fa0-4fd2-a708-04146e150efe" />
+## AIAutomation%
+<img width="525" height="259" alt="image" src="https://github.com/user-attachments/assets/9a7d24e3-55b8-4e26-9970-2e5bac67991d" />
+### Professional Insight
+The distribution of automation risk across global subregions reveals a clear pattern of concentration rather than uniform exposure. Northern Europe, South America, and Southern Asia collectively account for approximately 43% of total automation risk, indicating that nearly half of global exposure is concentrated in just three regions. This suggests that automation vulnerability is strongly influenced by the structure of labor markets rather than economic development alone.
+Notably, both developed and developing regions appear among the highest-risk areas. This highlights that automation risk is not strictly correlated with GDP or income level, but is more closely tied to the prevalence of routine, repetitive, and standardized job functions that are more susceptible to AI and robotic substitution. As a result, regions with significant industrial, administrative, or process-driven employment tend to exhibit higher exposure.
+In contrast, regions such as Western Europe, Northern America, Eastern Asia, and Australia & New Zealand demonstrate comparatively moderate to lower levels of automation risk. These regions typically have more diversified economies with stronger representation of knowledge-based, creative, and technologically advanced roles, which are less immediately vulnerable to automation.
+Overall, the findings indicate that the impact of automation will be geographically uneven, with certain regions experiencing accelerated workforce transformation while others transition more gradually due to structural differences in employment composition.
+ # Cost reduction $ productivity gain
 
 
 
